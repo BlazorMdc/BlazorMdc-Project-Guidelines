@@ -1,10 +1,10 @@
-Git Strict Flow and GitHub Project Guidelines
+BlazorMdc Project Guidelines
 =
-Or how to turn this:
+We do not want our repository to look like this:
 
 ![](https://gist.githubusercontent.com/rsp/057481db4dbd999bb7077f211f53f212/raw/5a2b253d998073465908ee1c31230d23a49d051d/screenshot-chart-complex.png)
 
-into this:
+but instead to have a flow that continues to look like this:
 
 ![](https://gist.githubusercontent.com/rsp/057481db4dbd999bb7077f211f53f212/raw/5a2b253d998073465908ee1c31230d23a49d051d/screenshot-chart-simple.png)
 
