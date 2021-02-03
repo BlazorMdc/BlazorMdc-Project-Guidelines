@@ -1,4 +1,4 @@
-BlazorMdc Project Guidelines
+Material.Blazor Project Guidelines
 =
 We do not want our repository to look like this:
 
@@ -50,6 +50,8 @@ All comments, issues, pull requests titles and descriptions, code review comment
 commit messages, code comments, license, readme and all documentation
 MUST be written in one language.
 This language SHOULD be English.
+
+<H1>TBD - Complete the remainer...</h1>
 
 License
 -
